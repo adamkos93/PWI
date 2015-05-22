@@ -1,0 +1,28 @@
+
+table {
+    
+	border-collapse:collapse;
+   margin: 0 auto;
+      border:0;
+  
+}
+
+td {
+ 
+	background-color:salmon;
+	border: 3px solid white;
+	font-size:80px;
+	color:#ffffff;
+	border-radius: 10px 10px 10px 10px;
+   
+}
+#turn{
+margin: 30% 46%;
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 30px;
+width:150px;
+text-align: center;
+}
+#tictactoe{
+padding-top: 200px;
+}
